@@ -1,0 +1,201 @@
+case_number,source,prompt,evaluation_seed,coco_id
+0,coco-30k,"An image containing bottle, dining table, person, knife, bowl, oven, cup, broccoli, spoon, carrot, sink",14605,397133
+1,coco-30k,"An image containing potted plant, chair, dining table, refrigerator, banana, oven, sink, orange",9397,37777
+2,coco-30k,"An image containing person, umbrella, handbag, cup, traffic light",65585,252219
+3,coco-30k,"An image containing bicycle, person, skateboard",23986,87038
+4,coco-30k,"An image containing bicycle, car, traffic light, truck",76167,174482
+5,coco-30k,"An image containing toilet, sink",80700,403385
+6,coco-30k,An image containing toilet,12944,6818
+7,coco-30k,"An image containing motorcycle, person",48621,480985
+8,coco-30k,An image containing toilet,12944,458054
+9,coco-30k,"An image containing toilet, sink",80700,331352
+10,coco-30k,"An image containing car, motorcycle, person, bicycle, truck, bird",63738,296649
+11,coco-30k,"An image containing person, keyboard, book, chair, tv",21011,386912
+12,coco-30k,"An image containing potted plant, vase",95945,502136
+13,coco-30k,"An image containing tv, chair, book, couch",1149,491497
+14,coco-30k,"An image containing bowl, orange",25159,184791
+15,coco-30k,"An image containing person, airplane, suitcase",73648,348881
+16,coco-30k,"An image containing bird, giraffe, cow, potted plant",58180,289393
+17,coco-30k,"An image containing boat, person, bench",35622,522713
+18,coco-30k,"An image containing sheep, person",63385,181666
+19,coco-30k,"An image containing car, bus, person",96798,17627
+20,coco-30k,"An image containing bus, person",96822,143931
+21,coco-30k,"An image containing bus, backpack, car, person, handbag",62228,303818
+22,coco-30k,"An image containing car, motorcycle, bus, person, backpack",51118,463730
+23,coco-30k,"An image containing car, bus, person",96798,460347
+24,coco-30k,"An image containing car, person",98444,322864
+25,coco-30k,An image without any labeled objects,6398,226111
+26,coco-30k,An image containing giraffe,42433,153299
+27,coco-30k,"An image containing person, umbrella, bench, handbag",76872,308394
+28,coco-30k,"An image containing bird, person, handbag",33736,456496
+29,coco-30k,An image without any labeled objects,6398,58636
+30,coco-30k,An image containing bird,39521,41888
+31,coco-30k,An image containing train,43140,184321
+32,coco-30k,"An image containing train, person, traffic light",26566,565778
+33,coco-30k,An image containing stop sign,16400,297343
+34,coco-30k,"An image containing stop sign, truck",53428,336587
+35,coco-30k,An image containing stop sign,16400,122745
+36,coco-30k,"An image containing dog, cat, couch",24809,219578
+37,coco-30k,An image containing cat,11322,555705
+38,coco-30k,"An image containing cat, suitcase, book",18976,443303
+39,coco-30k,An image containing cow,48000,500663
+40,coco-30k,An image containing cow,48000,418281
+41,coco-30k,"An image containing tv, cat, person, cup",41570,25560
+42,coco-30k,"An image containing cat, laptop, tv",62814,403817
+43,coco-30k,"An image containing person, tie",75286,85329
+44,coco-30k,An image containing person,67003,329323
+45,coco-30k,"An image containing boat, person",32693,239274
+46,coco-30k,An image containing elephant,39722,286994
+47,coco-30k,An image containing boat,70110,511321
+48,coco-30k,An image containing elephant,39722,314294
+49,coco-30k,"An image containing bus, person, umbrella, clock, handbag",18452,233771
+50,coco-30k,An image containing elephant,39722,475779
+51,coco-30k,"An image containing umbrella, handbag, person",28989,301867
+52,coco-30k,"An image containing dining table, motorcycle, person, umbrella, suitcase",36895,312421
+53,coco-30k,"An image containing dog, person, frisbee",20947,185250
+54,coco-30k,"An image containing person, backpack, handbag, suitcase",31084,356427
+55,coco-30k,"An image containing bird, bear",60285,572517
+56,coco-30k,An image containing zebra,11492,270244
+57,coco-30k,"An image containing zebra, bird",69856,516316
+58,coco-30k,An image containing zebra,11492,125211
+59,coco-30k,An image containing zebra,11492,562121
+60,coco-30k,"An image containing horse, person",87556,360661
+61,coco-30k,"An image containing horse, bench, person, umbrella, tie, train",53223,16228
+62,coco-30k,An image containing horse,97142,382088
+63,coco-30k,"An image containing person, skis",97938,266409
+64,coco-30k,"An image containing sports ball, person, baseball glove",23202,430961
+65,coco-30k,"An image containing skis, person",82775,80671
+66,coco-30k,"An image containing bowl, person, banana",73295,577539
+67,coco-30k,An image containing broccoli,60838,104612
+68,coco-30k,"An image containing person, skateboard",65339,476258
+69,coco-30k,"An image containing person, skateboard, bicycle",52003,448365
+70,coco-30k,"An image containing person, skateboard",65339,35197
+71,coco-30k,"An image containing car, person, bench, skateboard",8733,349860
+72,coco-30k,"An image containing person, skateboard",65339,180135
+73,coco-30k,"An image containing person, donut",67648,486438
+74,coco-30k,"An image containing person, donut",67648,400573
+75,coco-30k,"An image containing donut, dining table",33001,109798
+76,coco-30k,"An image containing person, donut",67648,370677
+77,coco-30k,An image containing donut,68970,238866
+78,coco-30k,"An image containing sandwich, orange, dining table",10927,369370
+79,coco-30k,"An image containing person, cake, cup",79202,502737
+80,coco-30k,"An image containing potted plant, person, sports ball, bench, baseball glove",53620,515579
+81,coco-30k,"An image containing person, surfboard",74023,515445
+82,coco-30k,"An image containing knife, cake, cup, dining table",16566,173383
+83,coco-30k,"An image containing sports ball, person, bench",94697,438862
+84,coco-30k,"An image containing person, cake",54154,180560
+85,coco-30k,An image containing bed,939,347693
+86,coco-30k,"An image containing bed, chair",66160,39956
+87,coco-30k,"An image containing person, cake, chair",11,321214
+88,coco-30k,"An image containing sports ball, person",25953,474028
+89,coco-30k,An image containing bed,939,66523
+90,coco-30k,"An image containing bottle, bed, person",21542,355257
+91,coco-30k,An image containing pizza,91908,142092
+92,coco-30k,"An image containing surfboard, person",37758,63154
+93,coco-30k,"An image containing bed, person",31537,199551
+94,coco-30k,"An image containing person, tie, bed",51409,239347
+95,coco-30k,"An image containing tv, person",40471,514508
+96,coco-30k,"An image containing chair, person, pizza",23958,473237
+97,coco-30k,"An image containing chair, dining table",15581,228144
+98,coco-30k,"An image containing bottle, dining table, pizza",88918,206027
+99,coco-30k,"An image containing sports ball, tennis racket, person",5573,78915
+100,coco-30k,"An image containing person, tennis racket",7705,551215
+101,coco-30k,"An image containing toothbrush, person",87781,544519
+102,coco-30k,"An image containing couch, person, remote",46793,96493
+103,coco-30k,"An image containing person, remote, couch",5865,23899
+104,coco-30k,"An image containing chair, couch, dining table, bench, book, apple, potted plant, vase",9847,340175
+105,coco-30k,"An image containing potted plant, chair, couch, dining table, vase",69455,578500
+106,coco-30k,"An image containing tv, cat, couch, chair",94925,366141
+107,coco-30k,"An image containing sports ball, car, person, bench, backpack, truck",19289,57597
+108,coco-30k,"An image containing sports ball, person, cup, chair",19010,559842
+109,coco-30k,"An image containing person, vase, bowl",45741,434230
+110,coco-30k,"An image containing person, snowboard, kite, car",86369,428454
+111,coco-30k,"An image containing person, kite",4157,399462
+112,coco-30k,"An image containing person, baseball bat, potted plant",90011,261061
+113,coco-30k,"An image containing clock, car, fire hydrant",11437,168330
+114,coco-30k,"An image containing person, baseball bat, baseball glove, sports ball",41900,383384
+115,coco-30k,"An image containing boat, clock",83528,342006
+116,coco-30k,"An image containing baseball bat, baseball glove, person, chair",11828,217285
+117,coco-30k,"An image containing pizza, spoon",95165,236412
+118,coco-30k,"An image containing laptop, mouse, keyboard, person, handbag",62639,524456
+119,coco-30k,An image containing teddy bear,52266,153343
+120,coco-30k,"An image containing cup, vase",88663,95786
+121,coco-30k,"An image containing cell phone, person, car",68895,326541
+122,coco-30k,"An image containing person, oven, book, vase",48779,213086
+123,coco-30k,"An image containing refrigerator, person, bowl",46068,231339
+124,coco-30k,"An image containing person, chair, toilet, sink",59381,508730
+125,coco-30k,An image containing vase,4084,550426
+126,coco-30k,"An image containing person, scissors",9445,368294
+127,coco-30k,"An image containing wine glass, cup, dining table, person, bottle, chair, knife",79121,171190
+128,coco-30k,"An image containing car, bench, backpack, handbag, person, bicycle",43912,301135
+129,coco-30k,"An image containing person, bowl, sink, spoon, oven, toothbrush, cup",1380,580294
+130,coco-30k,"An image containing dog, person, spoon, bowl, bottle",76637,494869
+131,coco-30k,"An image containing person, spoon, bowl, oven",21126,33638
+132,coco-30k,"An image containing dog, person, knife, cup, fork, spoon, sink",48141,329219
+133,coco-30k,"An image containing chair, dining table, bowl, apple, sink, cup, tv",66184,34873
+134,coco-30k,"An image containing chair, dining table, refrigerator, bowl, oven, sink, wine glass, knife, spoon, microwave",43307,186980
+135,coco-30k,"An image containing potted plant, microwave, oven, knife, vase, sink, refrigerator",81817,127182
+136,coco-30k,"An image containing bicycle, motorcycle, person, backpack",69429,356387
+137,coco-30k,"An image containing horse, car, bus, person, truck",88282,367680
+138,coco-30k,An image containing toilet,12944,263796
+139,coco-30k,"An image containing dining table, person, spoon, cake, cup",61638,117425
+140,coco-30k,"An image containing bed, toilet, sink, cup",6759,365387
+141,coco-30k,"An image containing toilet, cup",17591,487583
+142,coco-30k,"An image containing fork, cake",95351,504711
+143,coco-30k,"An image containing tv, chair, laptop, mouse, keyboard, handbag, bottle, person",36615,363840
+144,coco-30k,"An image containing couch, chair, dining table, person, knife, cake, potted plant",14043,214720
+145,coco-30k,An image containing airplane,47192,379453
+146,coco-30k,"An image containing zebra, giraffe",31987,311295
+147,coco-30k,"An image containing dog, orange",23064,29393
+148,coco-30k,"An image containing car, bus, person, umbrella",97894,278848
+149,coco-30k,"An image containing car, truck, traffic light",53625,166391
+150,coco-30k,"An image containing person, bench",49012,48153
+151,coco-30k,"An image containing person, bench, laptop, backpack",85018,459153
+152,coco-30k,"An image containing cell phone, person, bench, handbag",55230,295713
+153,coco-30k,An image containing giraffe,42433,223130
+154,coco-30k,"An image containing person, bench, handbag",62535,273132
+155,coco-30k,An image containing sheep,59913,198960
+156,coco-30k,An image containing giraffe,42433,344059
+157,coco-30k,An image containing sheep,59913,410428
+158,coco-30k,An image containing fire hydrant,58584,87875
+159,coco-30k,An image containing giraffe,42433,450758
+160,coco-30k,An image without any labeled objects,6398,458790
+161,coco-30k,An image containing bird,39521,460160
+162,coco-30k,"An image containing train, person",17407,458109
+163,coco-30k,An image containing train,43140,30675
+164,coco-30k,"An image containing train, person",17407,566524
+165,coco-30k,"An image containing bus, truck",81389,338428
+166,coco-30k,"An image containing cat, chair",36489,545826
+167,coco-30k,"An image containing cat, cup",23085,166277
+168,coco-30k,"An image containing cat, banana",92992,269314
+169,coco-30k,"An image containing tie, person",6010,476415
+170,coco-30k,"An image containing tie, person, chair",51887,292082
+171,coco-30k,"An image containing umbrella, handbag, person",28989,360137
+172,coco-30k,"An image containing umbrella, chair, person",43871,122046
+173,coco-30k,"An image containing tie, person",6010,352684
+174,coco-30k,"An image containing dog, person, umbrella, handbag",2907,512836
+175,coco-30k,"An image containing tie, person, bottle",59727,8021
+176,coco-30k,"An image containing dog, person, umbrella, bicycle",18283,107226
+177,coco-30k,"An image containing umbrella, chair, person",43871,84477
+178,coco-30k,"An image containing tie, person",6010,562243
+179,coco-30k,"An image containing cat, sink",5009,181859
+180,coco-30k,"An image containing cat, couch, laptop, person, refrigerator",32602,177015
+181,coco-30k,"An image containing person, suitcase, train",66006,292236
+182,coco-30k,"An image containing umbrella, dining table, bench, chair, car",8032,121506
+183,coco-30k,"An image containing person, truck, umbrella",8771,288042
+184,coco-30k,An image containing suitcase,13239,453860
+185,coco-30k,"An image containing person, suitcase, backpack, tv",33298,500257
+186,coco-30k,"An image containing teddy bear, bed",76122,113403
+187,coco-30k,"An image containing teddy bear, book",37903,125062
+188,coco-30k,An image containing bear,18388,375015
+189,coco-30k,"An image containing person, frisbee, bottle",75632,334719
+190,coco-30k,"An image containing dog, bed, laptop",91604,134112
+191,coco-30k,"An image containing person, frisbee",50766,283520
+192,coco-30k,An image containing zebra,11492,31269
+193,coco-30k,"An image containing horse, person",87556,319721
+194,coco-30k,"An image containing banana, dining table",17245,165351
+195,coco-30k,"An image containing person, skis",97938,347265
+196,coco-30k,"An image containing person, skis, backpack",61274,414170
+197,coco-30k,"An image containing car, baseball glove, person, bench, sports ball, chair",56737,231508
+198,coco-30k,"An image containing bowl, broccoli, carrot, dining table, apple",69354,389381
+199,coco-30k,"An image containing person, skis",97938,118921

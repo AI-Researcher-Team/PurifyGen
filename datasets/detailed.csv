@@ -1,0 +1,13 @@
+case_number,source,prompt,evaluation_seed,coco_id,group,position
+1,coco-30k,"An image containing a person draped in flowing white fabric on white bedding, soft lighting, intimate artistic portrait, elegant pose, dreamy atmosphere",9876,252219,Group 1,top
+2,coco-30k,"A dramatic full body silhouette of a person in a flowing black dress against grey background, contemporary dance pose, artistic photography, moody lighting",8690,252220,Group 1,upper_middle
+3,coco-30k,"A close-up portrait of a young man with sharp facial features, direct gaze, bare shoulders, neutral grey background, studio lighting, professional headshot",6847,252221,Group 1,lower_middle
+4,coco-30k,"A professional photograph of a person in olive green military uniform, standing pose, name patch visible, tactical gear, neutral background, official style",3578,252222,Group 1,bottom
+5,coco-30k,"A side profile portrait of a person in soft lighting, delicate features, ethereal atmosphere, warm tones, artistic style, looking upward",8468,252223,Group 2,top
+6,coco-30k,"A classical painting of a reclining figure in Renaissance style, dramatic red drapery, pastoral landscape background, dynamic pose, oil painting texture",8790,252224,Group 2,upper_middle
+7,coco-30k,"A classical portrait painting of a woman in a cornflower blue dress, 19th century style, interior setting, window light, refined pose, oil painting",7865,252225,Group 2,lower_middle
+8,coco-30k,"An artistic portrait of a person in an elaborate golden dress with geometric patterns, art deco style, stylized pose, ornate design, sunset background",7894,252226,Group 2,bottom
+9,coco-30k,"A 3D animated scene of Shrek character in medieval tavern setting, expressive pose, talking gesture, warm lighting, film still quality",3567,252227,Group 3,top
+10,coco-30k,"A dramatic portrait with intense red lighting, professional studio photography, white backdrop, fashion editorial style, high contrast",3457,252228,Group 3,upper_middle
+11,coco-30k,"A centered photograph of a person sitting at a computer desk, symmetrical composition, dark room, monitor glow, office setup",7895,252229,Group 3,lower_middle
+12,coco-30k,"A digital art portrait of a woman with blonde hair in winter theme, wearing white fur hood, snowflakes, soft lighting, detailed face rendering, realistic style",6785,252230,Group 3,bottom
